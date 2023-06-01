@@ -1,0 +1,42 @@
+body{background-color:#F6F6F6;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+border-color:#4F200D;
+border-width:5px ;
+  width:7%;
+  
+}
+h1,h2,h3{
+    color: #66BFBF;
+}
+table,ol,ul{
+    color:orange ;
+}
+href{
+    color:#B3005E
+}
+#prof{
+  border-radius: 50%;
+}
+td{
+  padding: 10px;
+}
+.button{
+  background-color:blue;
+  color: white;
+  box-shadow: #B3005E;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 190px;
+  
+
+
+}
+.contact{
+  background-color: white;
+  
+}
